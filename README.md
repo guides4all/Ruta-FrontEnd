@@ -1,6 +1,6 @@
 # Front-End
 
-🚀**[VOLVER AL INDICE](https://github.com/guides4all/G4A-Rutas)**
+🚀 **[VOLVER AL INDICE](https://github.com/guides4all/G4A-Rutas)**
 
 El Front-End de una web hacer referencia a los elementos visibles con los que el usuario puede interactuar, tanto como su diseño (UI), como su funcionalidad (UX), recomiendo haberte relacionado con anterioridad con estos dos conceptos antes mencionados. RUTA UX/UI.
 
