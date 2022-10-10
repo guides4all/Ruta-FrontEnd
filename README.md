@@ -21,3 +21,13 @@ Ahora que ya conoces un poco mas sobre el rol te invito a mirar lo que mínimame
 ## **Temario**
 
 ![Rutas de aprendizaje ](https://user-images.githubusercontent.com/71718050/194410468-99dc5afc-2237-4259-8e45-b2bbdf082671.png)
+
+
+## Comienza ya!
+Aqui encontrarás cada una de las rutas, con recursos y mas para aprender sobre la trinidad del frontend a profundidad.
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20px" /> [Ruta HTML](https://github.com/guides4all/Ruta-FrontEnd/blob/main/RUTAS/HTML.md)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20px" /> [Ruta CSS](https://github.com/guides4all/Ruta-FrontEnd/blob/main/RUTAS/CSS.md)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20px"/> [Ruta Javascript](https://github.com/guides4all/Ruta-FrontEnd/blob/main/RUTAS/Javascript.md)
