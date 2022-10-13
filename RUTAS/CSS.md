@@ -33,6 +33,7 @@ Con CSS podemos dar estilo a la maquetación de nuestra web, haciendo así que n
 - patrones de maquetación
 
 Conoce a profundidad que es y como funciona CSS.
+
 [![Alt text](https://img.youtube.com/vi/ll5aUVVn_qU/0.jpg)](https://www.youtube.com/watch?v=ll5aUVVn_qU)
 
 
