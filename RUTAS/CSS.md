@@ -2,6 +2,10 @@
 
 🚀 [VOLVER ATRÁS](https://github.com/guides4all/Ruta-FrontEnd)
 
+### Apuntes:
+
+[Apuntes CSS](https://www.notion.so/CSS-e227f6dfc5e94b24989792c498010889)
+
 - Que es es CSS
 - Anatomia de una regla css
 - Selectores
