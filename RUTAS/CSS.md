@@ -44,3 +44,18 @@ Conoce a profundidad que es y como funciona CSS.
 | COMO CREAR +3 PÁGINAS WEB DESDE CERO (HTML & CSS) | AlexCG Design | https://www.youtube.com/watch?v=OQIe_7lKpDw | Aprende con 3 proyectos HTML, CSS y hasta JS aplicado al web responsive. |
 | CURSO CSS desde Cero  CSS BÁSICO Para PRINCIPIANTES | Dorian Desings | https://www.youtube.com/watch?v=N8V5JhasaSE | En este curso podrás profundizar en cada concepto de CSS. de manera teórica y practica. |
 | Aprende HTML y CSS Curso Desde Cero | freeCodeCamp Español | https://www.youtube.com/watch?v=XqFR2lqBYPs | En este curso aprenderás los fundamentos de HTML y CSS paso a paso con ejemplos detallados. |
+
+
+### Practica y aprende más sobre CSS
+
+En esta página encontrarás documentación acerca de CSS  y cada una de sus reglas.
+
+[Lenguaje CSS - CSS en español](https://lenguajecss.com/css/)
+
+Como se aprende practicando, aquí hay una pagina para realizar proyectos con CSS y HTML para reforzar tus habilidades.
+
+[Frontend Mentor | Front-end coding challenges using a real-life workflow](https://www.frontendmentor.io/)
+
+Con este video podrás guiarte y seguir aprendiendo con proyectos sobre css
+
+[🔥 20 PROYECTOS COMPLETOS CON CSS](https://www.youtube.com/watch?v=XZTt1NFDnDw)
