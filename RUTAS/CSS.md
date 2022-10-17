@@ -9,28 +9,9 @@
 ### Temario:
 
 Con CSS podemos dar estilo a la maquetación de nuestra web, haciendo así que nuestro usuario final se agrade al ver nuestra página.
-- Que es es CSS
-- Anatomia de una regla css
-- Selectores
-- Box Model
-- Especificidad
-- Herencia
-- borde, colores, gradientes
-- metodologia BEM
-- pseudoclases y pseudoelementos
-- Combinadores
-- Medidas
-- max/min witdh
-- position
-- z-index
-- display
-- float
-- flex-box
-- grid
-- variables
-- media queries
-- responsive design
-- patrones de maquetación
+![Rutas de aprendizaje para css](https://user-images.githubusercontent.com/71718050/196272264-913cd6b0-35fc-419c-8720-f855e99a7e26.png)
+
+
 
 Conoce a profundidad que es y como funciona CSS.
 
