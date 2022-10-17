@@ -10,6 +10,7 @@
 
 Con CSS podemos dar estilo a la maquetación de nuestra web, haciendo así que nuestro usuario final se agrade al ver nuestra página.
 ![Rutas de aprendizaje para css](https://user-images.githubusercontent.com/71718050/196272264-913cd6b0-35fc-419c-8720-f855e99a7e26.png)
+![Rutas de aprendizaje css](https://user-images.githubusercontent.com/71718050/196272272-8fc3cb40-1bcb-431d-b324-eea746d50a1a.png)
 
 
 
