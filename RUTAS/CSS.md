@@ -51,8 +51,6 @@ Estas herramientas son de uso común en ambientes laborales, no se usa CSS puro,
 
 <img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /> [TailwindCSS](https://github.com/guides4all/Ruta-FrontEnd/blob/main/RUTAS/Librerias%20CSS/Tailwind.md)
 
-<img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" /> [MaterialUI](https://github.com/guides4all/Ruta-FrontEnd/blob/main/RUTAS/Librerias%20CSS/MaterialUI.md)
-
 <img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> [SASS](https://github.com/guides4all/Ruta-FrontEnd/blob/main/RUTAS/Librerias%20CSS/SASS.md)
           
           
