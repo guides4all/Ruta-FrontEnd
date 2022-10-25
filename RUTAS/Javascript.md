@@ -45,3 +45,19 @@ Como siempre me gusta tener una visión general de lo que voy aprender, recomien
 | JAVASCRIPT AVANZADO | Codificandolo | https://www.youtube.com/playlist?list=PLyBd7TyyK5mqBGx31fC5tvqOi6UbY2rMU | Aprende conceptos más deep de js. |
 
 ## Recursos y proyectos para aprender JS
+
+La documentación más completa de para JS está aquí:
+
+[JavaScript | MDN](https://developer.mozilla.org/es/docs/Web/JavaScript)
+
+Aprende Javascript de una forma documentada y práctica en W3scholl:
+
+[JavaScript Tutorial](https://www.w3schools.com/js/default.asp)
+
+Gracias a Mouredev tendremos estas hojas de trampa, con conceptos básicos de JS de forma accesible y rápida.
+
+[Javascript Cheatsheets - Javascript en español](https://lenguajejs.com/javascript/cheatsheets/)
+
+En este curso, aprenderás conceptos fundamentales de programación en JavaScript. Empezarás con estructuras básicas de datos como números y cadenas. Luego aprenderás a trabajar con arreglos, objetos, funciones, bucles, declaraciones if/else y más.
+
+[freeCodeCamp.org](https://www.freecodecamp.org/espanol/learn/javascript-algorithms-and-data-structures/)
