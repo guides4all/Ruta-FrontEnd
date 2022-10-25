@@ -12,17 +12,36 @@ En mi opinión, para aprender cualquier lenguaje de programación necesitamos un
 
 Por esta razón la ruta de aprendizaje para cada lenguaje se dividirá en dos, la primera parte para aprender los conceptos básicos de la programación con JS y la segunda para aprender conceptos mas profundos o especiales de este lenguaje.
 
-## Temario:
-
-JavaScript es un lenguaje creado específicamente para la web, con enfoque en darle interacción a esta, por esta razón es la tecnología mas demandada para el desarrollo web front-end y hasta para el back-end últimamente.
-
 1. Conceptos básicos de JS, FDP con JS
-2. Conceptos únicos de JS
+- Introducción a JS (historia, usos)
+- Variables
+- Scope y hoisting de variables.
+- Tipos de datos
+- Tipos de operadores
+- Condicionales
+- Ciclos
+- Funciones
+
+1. Conceptos especiales de JS
+- Ecmascript
+- Template strings
+- Function declaration, function expresion y arrow functions.
+- Object literal y object destruction
+- Array functions (.map, .filter, .reduce, …etc)
+
+
+Como siempre me gusta tener una visión general de lo que voy aprender, recomiendo este video para irse introduciendo en este mundo.
+[![Historia de javascript](https://img.youtube.com/vi/ZGB_hQiI4ac/0.jpg)](https://www.youtube.com/watch?v=ZGB_hQiI4ac)
+
+
 ## Cursos gratis de JS
 
 | Curso | Autor | Link | Descripción |
 | --- | --- | --- | --- |
-|  |  |  |  |
-|  |  |  |  |
+| Clase 01 -Aprende las bases de la programación con Javascript Escalab Academy | Escalab | https://youtu.be/2grOcef4OAM | En este curso de introducción a javascript aprenderás los principios de la programación y podrás desarrollar un proyecto real, utilizando el lenguaje de Javascript para validar y manipular un sitio |
+| Aprende JavaScript -Curso Completo desde Cero | freeCodeCamp Español | https://www.youtube.com/watch?v=ivdTnPl1ND0 | En este curso completo de JavaScript aprenderás todo lo que necesitas saber para comenzar a trabajar este lenguaje de programación paso a paso con ejemplos. |
+| Curso Completo de JavaScript 🚀 desde cero y paso a paso 👈🏼 | JAB | https://www.youtube.com/playlist?list=PLRM7PpbqqStLPpUW5zQqR4k2JCs_lqFa5 | Aprende con explicaciones gráficas y de forma muy didactica todos los conceptos de JS. |
+| Aprende javascript! con 5 proyectos incluidos | Codigo 369 | https://youtu.be/nQobb4pcU78 | Desde los conceptos básicos a aplicarlo en proyectos interesantes para practicar. |
+| JAVASCRIPT AVANZADO | Codificandolo | https://www.youtube.com/playlist?list=PLyBd7TyyK5mqBGx31fC5tvqOi6UbY2rMU | Aprende conceptos más deep de js. |
 
 ## Recursos y proyectos para aprender JS
