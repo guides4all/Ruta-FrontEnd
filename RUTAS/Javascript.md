@@ -15,7 +15,9 @@ Por esta razón la ruta de aprendizaje para cada lenguaje se dividirá en dos, l
 ## Temario:
 
 JavaScript es un lenguaje creado específicamente para la web, con enfoque en darle interacción a esta, por esta razón es la tecnología mas demandada para el desarrollo web front-end y hasta para el back-end últimamente.
+![Rutas de aprendizaje javascript ](https://user-images.githubusercontent.com/71718050/198380941-ff314ffc-3126-42bf-98cb-b42289ec41b7.png)
 
+![Rutas de aprendizaje javascript ](https://user-images.githubusercontent.com/71718050/198380952-3b307b7b-e22b-4a53-a889-bda3b3e5bf48.png)
 
 Como siempre me gusta tener una visión general de lo que voy aprender, recomiendo este video para irse introduciendo en este mundo.
 [![Historia de javascript](https://img.youtube.com/vi/ZGB_hQiI4ac/0.jpg)](https://www.youtube.com/watch?v=ZGB_hQiI4ac)
