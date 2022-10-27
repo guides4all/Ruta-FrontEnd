@@ -12,22 +12,9 @@ En mi opinión, para aprender cualquier lenguaje de programación necesitamos un
 
 Por esta razón la ruta de aprendizaje para cada lenguaje se dividirá en dos, la primera parte para aprender los conceptos básicos de la programación con JS y la segunda para aprender conceptos mas profundos o especiales de este lenguaje.
 
-1. Conceptos básicos de JS, FDP con JS
-- Introducción a JS (historia, usos)
-- Variables
-- Scope y hoisting de variables.
-- Tipos de datos
-- Tipos de operadores
-- Condicionales
-- Ciclos
-- Funciones
+## Temario:
 
-1. Conceptos especiales de JS
-- Ecmascript
-- Template strings
-- Function declaration, function expresion y arrow functions.
-- Object literal y object destruction
-- Array functions (.map, .filter, .reduce, …etc)
+JavaScript es un lenguaje creado específicamente para la web, con enfoque en darle interacción a esta, por esta razón es la tecnología mas demandada para el desarrollo web front-end y hasta para el back-end últimamente.
 
 
 Como siempre me gusta tener una visión general de lo que voy aprender, recomiendo este video para irse introduciendo en este mundo.
