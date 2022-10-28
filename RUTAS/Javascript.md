@@ -50,3 +50,7 @@ Gracias a Mouredev tendremos estas hojas de trampa, con conceptos básicos de JS
 En este curso, aprenderás conceptos fundamentales de programación en JavaScript. Empezarás con estructuras básicas de datos como números y cadenas. Luego aprenderás a trabajar con arreglos, objetos, funciones, bucles, declaraciones if/else y más.
 
 [freeCodeCamp.org](https://www.freecodecamp.org/espanol/learn/javascript-algorithms-and-data-structures/)
+
+
+## Aprende librerías / frameworks de Javascript
+Si bien aprendiendo los lenguajes de la web (HTML, CSS y JS) podemos hacer cosas increíbles, en un ambiente laboral es muy raro o inusual que se use Javascript puro para le desarrollo de soluciones, para estos casos existen soluciones que te brindan grandes beneficios a la hora de desarrollar y llevar un proyecto a producción, tales como velocidad, reutilizar código, rapidez, organización y muchas mas ventajas de ofrece cada una de las herramientas basadas en JS que desees aprender.
