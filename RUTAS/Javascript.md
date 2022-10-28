@@ -55,12 +55,12 @@ En este curso, aprenderás conceptos fundamentales de programación en JavaScrip
 ## Aprende librerías / frameworks de Javascript
 Si bien aprendiendo los lenguajes de la web (HTML, CSS y JS) podemos hacer cosas increíbles, en un ambiente laboral es muy raro o inusual que se use Javascript puro para le desarrollo de soluciones, para estos casos existen soluciones que te brindan grandes beneficios a la hora de desarrollar y llevar un proyecto a producción, tales como velocidad, reutilizar código, rapidez, organización y muchas mas ventajas de ofrece cada una de las herramientas basadas en JS que desees aprender.
 
-<img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> [React]()
+<img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> [React](https://github.com/guides4all/Ruta-FrontEnd/blob/main/RUTAS/Librerias%20JS/React.md)
 
-<img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> [Angular]()
+<img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> [Angular](https://github.com/guides4all/Ruta-FrontEnd/blob/main/RUTAS/Librerias%20JS/Angular.md)
 
-<img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /> [VUE]()
+<img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /> [VUE](https://github.com/guides4all/Ruta-FrontEnd/blob/main/RUTAS/Librerias%20JS/VUE.md)
 
-<img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /> [Next]()
+<img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /> [Next](https://github.com/guides4all/Ruta-FrontEnd/blob/main/RUTAS/Librerias%20JS/next.md)
 
-<img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" /> [Svelte]()
+<img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" /> [Svelte](https://github.com/guides4all/Ruta-FrontEnd/blob/main/RUTAS/Librerias%20JS/svelte.md)
