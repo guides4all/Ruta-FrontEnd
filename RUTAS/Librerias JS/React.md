@@ -32,6 +32,8 @@ React es una biblioteca Javascript de código abierto diseñada para crear inter
 
 
 Aprende a detalles los conceptos básicos y esenciales de Javascript para aprender react.
+
+
 [![domina javascript para aprender react](https://img.youtube.com/vi/BfWKsr9hPmo/0.jpg)](https://www.youtube.com/watch?v=BfWKsr9hPmo)
 
 
@@ -44,3 +46,9 @@ Aprende a detalles los conceptos básicos y esenciales de Javascript para aprend
 | Curso de Reactjs desde Cero para principiantes 2022 | https://www.youtube.com/watch?v=rLoWMU4L_qE&t | Fazt | En este curso de React aprenderás las bases necesarias de React como componentes (Components), props, estado (useState), hooks, estilos, useContext, useEffect, ademas de usar otras herramientas como create-react-app, vitejs, tailwindcss, react-icons y otras mas bibliotecas de npm (Nodejs). |
 | Curso React.js | https://www.youtube.com/playlist?list=PLvq-jIkSeTUZ5XcUw8fJPTBKEHEKPMTKk | jonmircha | Aprende a programar en la librería Frontend más popular y usada en la industria con esta serie de más de 100 videos. |
 | Aprende REACT con 3 proyectos incluidos! +6 horas | https://www.youtube.com/watch?v=0C5yFwOYhAk | Codigo 369 | Conoce todos los conceptos básicos de esta librería además de realizar 3 proyectos. |
+
+## Más recursos para aprender React
+
+Realiza un test de conocimientos básicos de React:
+
+[React Quiz](https://www.w3schools.com/react/react_quiz.asp)
