@@ -11,20 +11,8 @@ React es una biblioteca Javascript de código abierto diseñada para crear inter
 
 ## Temario:
 
-- Conceptos esenciales de Javascript
-- Introducción a React (Historia, funcionamiento y más)
-- Sintaxis JSX
-- Componentes en React
-- Routing en react.
-- Manejo del estado
-- Props (comunicación entre componentes)
-- List y Keys (renderizar elementos de una lista)
-- Hooks de estado en react
-- Estilizar en react
-- Manejo de formularios
-- Manejo de datos (fetch de datos de API)
-- Crear hooks personalizados
-- Context (manejo global del estado)
+![Ruta de aprendizaje React en español](https://user-images.githubusercontent.com/71718050/199359471-6e9b2f2d-6029-4c2a-a71e-0144f85a027c.png)
+
 
 [![Intro a react](https://img.youtube.com/vi/xUu087dt4So/0.jpg)](https://www.youtube.com/watch?v=xUu087dt4So)
 
