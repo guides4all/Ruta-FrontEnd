@@ -24,3 +24,7 @@ Angular es un Framework de JavaScript de código abierto escrito en TypeScript.
 Cada aprenderás algo nuevo. |
 | Curso de Angular 2022 | YouTics | https://www.youtube.com/playlist?list=PLnesPkAqqVDrz338wqiGHztHjv7kPjfm7 | Curso de fundamentos de Angular. |
 | Curso Angular | pildorasinformaticas | https://www.youtube.com/playlist?list=PLU8oAlHdN5BnNAe8zXnuBNzKID39DUwcO | Aprenderás desde los fundamentos hasta conceptos avanzados  |
+
+## Más recursos para aprender Angular
+
+[La prueba técnica de Angular mas común en entrevistas de trabajo. (2022)](https://youtu.be/I6OBjvF41ZY)
