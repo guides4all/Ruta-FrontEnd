@@ -51,6 +51,11 @@ En este curso, aprenderás conceptos fundamentales de programación en JavaScrip
 
 [freeCodeCamp.org](https://www.freecodecamp.org/espanol/learn/javascript-algorithms-and-data-structures/)
 
+JSChallenger tiene más de 120 ejercicios sencillos que te ayudarán a consolidar su sintaxis.
+La mayoría son totalmente gratis
+
+[JSchallenger](https://www.jschallenger.com/)
+
 
 ## Aprende librerías / frameworks de Javascript
 Si bien aprendiendo los lenguajes de la web (HTML, CSS y JS) podemos hacer cosas increíbles, en un ambiente laboral es muy raro o inusual que se use Javascript puro para le desarrollo de soluciones, para estos casos existen soluciones que te brindan grandes beneficios a la hora de desarrollar y llevar un proyecto a producción, tales como velocidad, reutilizar código, rapidez, organización y muchas mas ventajas de ofrece cada una de las herramientas basadas en JS que desees aprender.
