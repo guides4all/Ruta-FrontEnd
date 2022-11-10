@@ -10,3 +10,16 @@ Vue.js es un framework de JavaScript de código abierto para la construcción de
 ### Apuntes
 
 ## Temario
+
+## Cursos gratis de VUE
+
+| Curso | Autor | Link | Descripción |
+| --- | --- | --- | --- |
+|  |  |  |  |
+|  |  |  |  |
+
+## Más recursos para aprender VUE
+
+Tutorial oficial de VUE, para aprender cada concepto de forma practica gracias al playground integrado de la página.
+
+[Tutorial | Vue.js](https://vuejs.org/tutorial/#step-1)
