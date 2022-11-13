@@ -13,19 +13,8 @@ Angular es un Framework de JavaScript de código abierto escrito en TypeScript.
 <img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> [Typescript](https://www.notion.so/Typescript-08a08e610d2a462aaf203092a57bcb87)
 
 ## Temario
-- Qué es y como funciona angular
-- Conceptos Básicos de Typescript
-- Componentes en Angular
-- Interpolación de datos
-- Directivas
-- Directivas de atributos
-- Ciclo de vida de componentes
-- Event biding o enlace de eventos
-- Decoradores
-- Formularios en angular
-- Rutas en angular
-- Peticiones HTTP
-- Comunicación entre componentes
+![Ruta de aprendizaje angular ](https://user-images.githubusercontent.com/71718050/201501751-8309e042-3e29-4b90-9d3a-d97a72124185.png)
+
 
 [![Alt text](https://img.youtube.com/vi/4PYwCI1LFqs/0.jpg)](https://www.youtube.com/watch?v=4PYwCI1LFqs)
 
