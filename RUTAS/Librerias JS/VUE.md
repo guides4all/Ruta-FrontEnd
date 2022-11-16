@@ -27,3 +27,7 @@ Tutorial oficial de VUE, para aprender cada concepto de forma practica gracias a
 Comunidad gratis para aprender VUE en grupo.
 
 [Aprender Vue y desarrollo Web en Escuela Vue](https://escuelavue.es/como-aprender-vue/)
+
+Introducción oficial de Microsoft a VUE.
+
+[Primeros pasos con Vue.js - Training](https://learn.microsoft.com/es-es/training/paths/vue-first-steps/)
