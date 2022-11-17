@@ -9,6 +9,9 @@ Vue.js es un framework de JavaScript de código abierto para la construcción de
 
 ### Apuntes
 
+
+## Temario
+
 - Fundamentos de componentes
 - Interpolación de datos
 - Atributos reactivos
@@ -25,7 +28,8 @@ Vue.js es un framework de JavaScript de código abierto para la construcción de
 - VUE router
 - Manejo del estado con VUEX
 
-## Temario
+[![Alt text](https://img.youtube.com/vi/AqesL138vMA/0.jpg)](https://www.youtube.com/watch?v=AqesL138vMA)
+
 
 ## Cursos gratis de VUE
 
