@@ -35,8 +35,8 @@ Vue.js es un framework de JavaScript de código abierto para la construcción de
 
 | Curso | Autor | Link | Descripción |
 | --- | --- | --- | --- |
-|  |  |  |  |
-|  |  |  |  |
+| Curso Vue 3 desde cero | Wmedia por Juan Andrés Núñez | https://youtube.com/playlist?list=PLM-Y_YQmMEqADwNySz6he0tkBr_awZ2tn | Curso de VUE desde cero. |
+| Aprende los Fundamentos de Vue.js 3 (Composition API + Vite) [Curso 2022] | Bluuweb | https://youtu.be/PL-aTHv2L3E | Conoce los conceptos claves y actualizados del Framework Vue.js 3, trabajando con el Composition API y realizando las instalaciones con Vite. |
 
 ## Más recursos para aprender VUE
 
