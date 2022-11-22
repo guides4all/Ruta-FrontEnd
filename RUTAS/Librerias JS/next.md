@@ -8,3 +8,14 @@ Por marco, nos referimos a Next.js maneja las herramientas y la configuración n
 ### Documentación:
 
 [Getting Started | Next.js](https://nextjs.org/docs/getting-started)
+
+## Temario:
+
+- Conocimientos de React y Javascript
+- Routing, páginas estáticas, dinámicas y navegar
+- SEO meta tags, title, font optimization y manejo de assets.
+- Layout
+- Data fetching y formas de hacerlo
+- API Routes
+- Image and fonts optimization
+- Next auth
