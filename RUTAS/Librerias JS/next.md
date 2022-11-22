@@ -19,3 +19,17 @@ Por marco, nos referimos a Next.js maneja las herramientas y la configuración n
 - API Routes
 - Image and fonts optimization
 - Next auth
+
+## Cursos de NextJS
+
+| Curso | Autor | Link | Descripción |
+| --- | --- | --- | --- |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+
+## Recursos para aprender NextJS
+
+Aprende lo básico de Next desde su página oficial
+
+[Learn | Next.js](https://nextjs.org/learn/basics/create-nextjs-app)
