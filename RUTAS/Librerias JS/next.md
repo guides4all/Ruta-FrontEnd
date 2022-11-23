@@ -20,6 +20,11 @@ Por marco, nos referimos a Next.js maneja las herramientas y la configuración n
 - Image and fonts optimization
 - Next auth
 
+Conoce este framework de manera rápida y mira que tal.
+
+[![Que es NextJS](https://img.youtube.com/vi/kRV23b1hYzw/0.jpg)](https://www.youtube.com/watch?v=kRV23b1hYzw)
+
+
 ## Cursos de NextJS
 
 | Curso | Autor | Link | Descripción |
