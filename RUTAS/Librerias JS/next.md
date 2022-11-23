@@ -33,3 +33,7 @@ Por marco, nos referimos a Next.js maneja las herramientas y la configuración n
 Aprende lo básico de Next desde su página oficial
 
 [Learn | Next.js](https://nextjs.org/learn/basics/create-nextjs-app)
+
+Con esta lista de reproducción conocerás de manera clara y a profundidad varios de los conceptos de este Framework.
+
+[NextJS](https://www.youtube.com/playlist?list=PLTg7E2ObeSjYBCu9d3DPWijlFmhfccd_M)
