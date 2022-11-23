@@ -24,9 +24,9 @@ Por marco, nos referimos a Next.js maneja las herramientas y la configuración n
 
 | Curso | Autor | Link | Descripción |
 | --- | --- | --- | --- |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| 📚 Curso de Next.js 13 desde cero | midudev | https://youtu.be/tA-_vAz9y78 | Crea proyectos con prácticos con la versión 13 de este framework.  |
+| CURSO COMPLETO PARA APRENDER NEXTJS | Vida MRR  | https://youtu.be/avGmwUzGJKA | En este curso  vas a aprender a crear una tienda online usando los conceptos más importantes para el manejo de rutas, el data fetching y el manejo del estado con Nextjs. |
+| Curso Conceptos básicos de Next |  | https://www.youtube.com/playlist?list=PL_7HoiqMMaOeJe04VOdwRlrnU2cWjJKG5 | Curso de conceptos fundamentales de NextJS |
 
 ## Recursos para aprender NextJS
 
