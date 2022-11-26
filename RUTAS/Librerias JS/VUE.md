@@ -12,21 +12,8 @@ Vue.js es un framework de JavaScript de código abierto para la construcción de
 
 ## Temario
 
-- Fundamentos de componentes
-- Interpolación de datos
-- Atributos reactivos
-- Eventos de usuario
-- Inputs reactivos
-- Watchers
-- Estilos reactivos
-- Condicionales
-- Listas
-- Componentes
-- Slots
-- Comunicación entre componentes
-- Custom v-model
-- VUE router
-- Manejo del estado con VUEX
+![Rutas de aprendizaje VUE JS](https://user-images.githubusercontent.com/71718050/204107289-d0267383-8057-470d-a4b8-4c5f665575c8.png)
+
 
 [![Alt text](https://img.youtube.com/vi/AqesL138vMA/0.jpg)](https://www.youtube.com/watch?v=AqesL138vMA)
 
