@@ -11,14 +11,8 @@ Por marco, nos referimos a Next.js maneja las herramientas y la configuración n
 
 ## Temario:
 
-- Conocimientos de React y Javascript
-- Routing, páginas estáticas, dinámicas y navegar
-- SEO meta tags, title, font optimization y manejo de assets.
-- Layout
-- Data fetching y formas de hacerlo
-- API Routes
-- Image and fonts optimization
-- Next auth
+![Rutas de aprendizaje Next JS ](https://user-images.githubusercontent.com/71718050/204154748-462b5371-5cc6-4673-a404-35a40f6d4fff.png)
+
 
 Conoce este framework de manera rápida y mira que tal.
 
