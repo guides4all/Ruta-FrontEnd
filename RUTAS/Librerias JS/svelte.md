@@ -8,3 +8,26 @@ En lugar de usar técnicas como la diferenciación de DOM virtual, Svelte escrib
 ## Documentación:
 
 [Svelte docs](https://svelte.dev/docs)
+
+## Temario:
+
+- Entender el ecosistema de Svelte
+- Componentes en Svelte
+- Svelte routing
+- Render condicional
+- Listas y keys
+- Manejo de eventos
+- Manejo de formularios
+- Declaraciones reactivas
+- Props en componentes
+- Slots
+- Estilos globales y de componentes
+
+[https://youtu.be/pze2JJj82XA](https://youtu.be/pze2JJj82XA)
+
+# Cursos de Svelte
+
+| Curso | Autor | Link | Descripción |
+| --- | --- | --- | --- |
+| Tutorial de Svelte | makigas | https://www.youtube.com/playlist?list=PLTd5ehIj0goM-5mQxXLmCr5nHZX_yc2QT | Aprende los conceptos básicos de este framework orientado a componentes para crear apps reactivas y modulares. |
+| Crea aplicaciones con Svelte | Fazt Code | https://www.youtube.com/playlist?list=PLo5lAe9kQrwrnxrTu3HumlUz3k8DP1_r7 | Con esta serie de tutoriales aplicarás y profundizarás tus conocimientos sobre este framework. |
