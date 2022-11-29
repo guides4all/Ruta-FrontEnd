@@ -22,8 +22,9 @@ En lugar de usar técnicas como la diferenciación de DOM virtual, Svelte escrib
 - Props en componentes
 - Slots
 - Estilos globales y de componentes
+- 
+[![Alt text](https://img.youtube.com/vi/pze2JJj82XA/0.jpg)](https://www.youtube.com/watch?v=pze2JJj82XA)
 
-[https://youtu.be/pze2JJj82XA](https://youtu.be/pze2JJj82XA)
 
 # Cursos de Svelte
 
