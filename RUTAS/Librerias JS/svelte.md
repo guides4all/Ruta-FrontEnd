@@ -9,6 +9,9 @@ En lugar de usar técnicas como la diferenciación de DOM virtual, Svelte escrib
 
 [Svelte docs](https://svelte.dev/docs)
 
+### Apuntes:
+[Apuntes de Svelte](https://www.notion.so/Svelte-0e695b70ee704921aaeb0422fb59a72d)
+
 ## Temario:
 
 - Entender el ecosistema de Svelte
@@ -32,3 +35,5 @@ En lugar de usar técnicas como la diferenciación de DOM virtual, Svelte escrib
 | --- | --- | --- | --- |
 | Tutorial de Svelte | makigas | https://www.youtube.com/playlist?list=PLTd5ehIj0goM-5mQxXLmCr5nHZX_yc2QT | Aprende los conceptos básicos de este framework orientado a componentes para crear apps reactivas y modulares. |
 | Crea aplicaciones con Svelte | Fazt Code | https://www.youtube.com/playlist?list=PLo5lAe9kQrwrnxrTu3HumlUz3k8DP1_r7 | Con esta serie de tutoriales aplicarás y profundizarás tus conocimientos sobre este framework. |
+
+## Recursos para aprender Svelte
