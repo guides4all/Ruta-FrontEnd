@@ -37,3 +37,4 @@ En lugar de usar técnicas como la diferenciación de DOM virtual, Svelte escrib
 | Crea aplicaciones con Svelte | Fazt Code | https://www.youtube.com/playlist?list=PLo5lAe9kQrwrnxrTu3HumlUz3k8DP1_r7 | Con esta serie de tutoriales aplicarás y profundizarás tus conocimientos sobre este framework. |
 
 ## Recursos para aprender Svelte
+[Curso interactivo svelte](https://scrimba.com/learn/learnsvelte)
